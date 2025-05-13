@@ -35,23 +35,11 @@ GoldenCoffee is a modern web application designed for coffee enthusiasts to expl
 - **Build**: Use `npm run build` to create a production build.
 - **Preview**: Use `npm run preview` to preview the production build.
 
-## Folder Structure
+## Deployment
 
-```
-GoldenCoffee/
-├── public/         # Static assets
-├── src/            # Source code
-│   ├── Components/ # Reusable components
-│   ├── pages/      # Page components
-│   ├── context/    # Context API for state management
-│   ├── hooks/      # Custom React hooks
-│   ├── assets/     # Images, icons, and other assets
-│   ├── App.jsx     # Main application component
-│   ├── main.jsx    # Entry point
-├── package.json    # Project metadata and dependencies
-├── tailwind.config.js # TailwindCSS configuration
-├── README.md       # Project documentation
-```
+This app is deployed online and accessible at:
+[Weather App - Live Demo](https://devby-ali.github.io/GoldenCoffee/)
+
 
 ## Contributing
 
