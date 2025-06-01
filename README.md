@@ -35,6 +35,12 @@ GoldenCoffee is a modern web application designed for coffee enthusiasts to expl
 - **Build**: Use `npm run build` to create a production build.
 - **Preview**: Use `npm run preview` to preview the production build.
 
+## Deployment
+
+This app is deployed online and accessible at:
+[Weather App - Live Demo](https://devby-ali.github.io/GoldenCoffee/)
+
+
 ## Contributing
 
 Contributions are welcome! Please follow these steps:
