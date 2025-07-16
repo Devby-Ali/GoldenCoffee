@@ -38,7 +38,7 @@ GoldenCoffee is a modern web application designed for coffee enthusiasts to expl
 ## Deployment
 
 This app is deployed online and accessible at:
-[Weather App - Live Demo](https://devby-ali.github.io/GoldenCoffee/)
+[Golden Coffee - Live Demo](https://devby-ali.github.io/GoldenCoffee/)
 
 
 ## Contributing
